@@ -1,0 +1,39 @@
+c:\users\epix\documents\visual studio 2013\Projects\EpiX Renamer\EpiX Renamer\bin\Debug\EpiX Renamer.exe.config
+c:\users\epix\documents\visual studio 2013\Projects\EpiX Renamer\EpiX Renamer\bin\Debug\EpiX Renamer.exe
+c:\users\epix\documents\visual studio 2013\Projects\EpiX Renamer\EpiX Renamer\bin\Debug\EpiX Renamer.pdb
+c:\users\epix\documents\visual studio 2013\Projects\EpiX Renamer\EpiX Renamer\obj\Debug\EpiX Renamer.csprojResolveAssemblyReference.cache
+c:\users\epix\documents\visual studio 2013\Projects\EpiX Renamer\EpiX Renamer\obj\Debug\EpiX_Renamer.Properties.Resources.resources
+c:\users\epix\documents\visual studio 2013\Projects\EpiX Renamer\EpiX Renamer\obj\Debug\EpiX Renamer.csproj.GenerateResource.Cache
+c:\users\epix\documents\visual studio 2013\Projects\EpiX Renamer\EpiX Renamer\obj\Debug\EpiX Renamer.exe
+c:\users\epix\documents\visual studio 2013\Projects\EpiX Renamer\EpiX Renamer\obj\Debug\EpiX Renamer.pdb
+c:\users\epix\documents\visual studio 2013\Projects\EpiX Renamer\EpiX Renamer\obj\Debug\EpiX_Renamer.AppForm.resources
+D:\Dropbox\VisualStudio\EpiX Renamer\EpiX Renamer\bin\Debug\EpiX Renamer.exe.config
+D:\Dropbox\VisualStudio\EpiX Renamer\EpiX Renamer\obj\Debug\EpiX Renamer.exe
+D:\Dropbox\VisualStudio\EpiX Renamer\EpiX Renamer\obj\Debug\EpiX Renamer.pdb
+D:\Dropbox\VisualStudio\EpiX Renamer\EpiX Renamer\bin\Debug\EpiX Renamer.exe
+D:\Dropbox\VisualStudio\EpiX Renamer\EpiX Renamer\bin\Debug\EpiX Renamer.pdb
+D:\Dropbox\VisualStudio\EpiX Renamer\EpiX Renamer\obj\Debug\EpiX Renamer.csprojResolveAssemblyReference.cache
+D:\Dropbox\VisualStudio\EpiX Renamer\EpiX Renamer\obj\Debug\EpiX_Renamer.AppForm.resources
+D:\Dropbox\VisualStudio\EpiX Renamer\EpiX Renamer\obj\Debug\EpiX_Renamer.Properties.Resources.resources
+D:\Dropbox\VisualStudio\EpiX Renamer\EpiX Renamer\obj\Debug\EpiX Renamer.csproj.GenerateResource.Cache
+C:\Users\EpiX\Dropbox\VisualStudio\EpiX Renamer\EpiX Renamer\bin\Debug\EpiX Renamer.exe.config
+C:\Users\EpiX\Dropbox\VisualStudio\EpiX Renamer\EpiX Renamer\obj\Debug\EpiX Renamer.exe
+C:\Users\EpiX\Dropbox\VisualStudio\EpiX Renamer\EpiX Renamer\obj\Debug\EpiX Renamer.pdb
+C:\Users\EpiX\Dropbox\VisualStudio\EpiX Renamer\EpiX Renamer\bin\Debug\EpiX Renamer.exe
+C:\Users\EpiX\Dropbox\VisualStudio\EpiX Renamer\EpiX Renamer\bin\Debug\EpiX Renamer.pdb
+C:\Users\EpiX\Dropbox\VisualStudio\EpiX Renamer\EpiX Renamer\obj\Debug\EpiX Renamer.csprojResolveAssemblyReference.cache
+C:\Users\EpiX\Dropbox\VisualStudio\EpiX Renamer\EpiX Renamer\obj\Debug\EpiX_Renamer.AppForm.resources
+C:\Users\EpiX\Dropbox\VisualStudio\EpiX Renamer\EpiX Renamer\obj\Debug\EpiX_Renamer.Properties.Resources.resources
+C:\Users\EpiX\Dropbox\VisualStudio\EpiX Renamer\EpiX Renamer\obj\Debug\EpiX Renamer.csproj.GenerateResource.Cache
+H:\Stuff\Gotland\VisualStudio\EpiX Renamer\EpiX Renamer\bin\Debug\EpiX Renamer.exe.config
+H:\Stuff\Gotland\VisualStudio\EpiX Renamer\EpiX Renamer\obj\Debug\EpiX Renamer.exe
+H:\Stuff\Gotland\VisualStudio\EpiX Renamer\EpiX Renamer\obj\Debug\EpiX Renamer.pdb
+D:\Drive\Exopias Hemligheter\Work\Fiendehanterare\EpiX Renamer\bin\Debug\EpiX Renamer.exe.config
+D:\Drive\Exopias Hemligheter\Work\Fiendehanterare\EpiX Renamer\obj\Debug\EpiX Renamer.exe
+D:\Drive\Exopias Hemligheter\Work\Fiendehanterare\EpiX Renamer\obj\Debug\EpiX Renamer.pdb
+D:\Drive\Exopias Hemligheter\Work\Fiendehanterare\EpiX Renamer\obj\Debug\EpiX Renamer.csprojResolveAssemblyReference.cache
+D:\Drive\Exopias Hemligheter\Work\Fiendehanterare\EpiX Renamer\obj\Debug\EpiX_Renamer.AppForm.resources
+D:\Drive\Exopias Hemligheter\Work\Fiendehanterare\EpiX Renamer\obj\Debug\EpiX_Renamer.Properties.Resources.resources
+D:\Drive\Exopias Hemligheter\Work\Fiendehanterare\EpiX Renamer\obj\Debug\EpiX Renamer.csproj.GenerateResource.Cache
+D:\Drive\Exopias Hemligheter\Work\Fiendehanterare\EpiX Renamer\bin\Debug\EpiX Renamer.exe
+D:\Drive\Exopias Hemligheter\Work\Fiendehanterare\EpiX Renamer\bin\Debug\EpiX Renamer.pdb
